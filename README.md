@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Enable is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by insight-partners, menlo-ventures, norwest-venture-partners, sierra-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://enable.com/
+Enable provides AI‑powered rebate and pricing management solutions for enterprises, helping procurement, finance and sales teams automate complex pricing, rebate calculations, and compliance. Their platform integrates with ERP, CRM and e‑commerce systems, offering analytics, AI insights, and a developer hub with REST APIs for data synchronization, reporting, and custom app development. Founded with backing from Insight Partners, Menlo Ventures, Norwest Venture Partners, and Sierra Ventures, Enable serves customers across distribution, health, manufacturing, retail, and food services.
+
+**Areas:** Company · AI · Pricing · Rebate · SaaS · AI · Pricing · Rebate · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://enable.com/)
+- [Documentation](https://developers.enable.com/)
+- [Getting started](https://developers.enable.com/sections/quick-start)
+- [API reference](https://developers.enable.com/api-reference)
+- [Pricing](https://www.enable.com/pricing)
+- [Support](https://help-center.enable.com/hc)
+- [Compliance](https://developers.enable.com/articles/certifications-and-compliance)
+- [Terms of service](https://developers.enable.com/terms-of-service)
+- [Privacy policy](https://developers.enable.com/privacy-notice)
+- [Status](https://status.enable.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/enable-com/](https://apis.io/providers/enable-com/).
